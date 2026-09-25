@@ -1,4 +1,4 @@
-def main():
+def practice3():
 
     MIN_SALARY = 30000
     MIN_YEARS_ON_JOB = 2
@@ -18,4 +18,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    practice3()

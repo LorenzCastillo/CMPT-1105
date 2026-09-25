@@ -1,4 +1,4 @@
-def main():
+def practice2():
     numberInput = int(input("Enter a number: "))
 
     if numberInput % 2 == 0:
@@ -8,4 +8,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    practice2()

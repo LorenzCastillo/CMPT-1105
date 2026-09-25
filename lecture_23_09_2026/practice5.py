@@ -1,4 +1,4 @@
-def main():
+def practice5():
     gradeInput = int(input("What is your grade? "))
 
     if gradeInput > 85:
@@ -16,4 +16,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    practice5()

@@ -1,4 +1,4 @@
-def main():
+def practice1():
     score1 = int(input("Enter the score for test 1: "))
     score2 = int(input("Enter the score for test 2: "))
     score3 = int(input("Enter the score for test 3: "))
@@ -12,5 +12,5 @@ def main():
         print("Get help.")
 
 if __name__ == '__main__':
-    main()
+    practice1()
 

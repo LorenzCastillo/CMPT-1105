@@ -1,4 +1,4 @@
-def main():
+def practice4():
     testScore = int(input("Enter your test score: "))
 
     if (0 <= testScore <= 100) and (testScore % 2 == 0):
@@ -15,4 +15,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    practice4()
