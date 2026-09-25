@@ -35,8 +35,5 @@ def practice1():
     else:
         print(SUNDAY_TEXT)
 
-
-
-
 if __name__ == "__main__":
     practice1()

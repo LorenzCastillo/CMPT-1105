@@ -10,13 +10,10 @@ def practice2():
 
     if userAge <= MAX_INFANT_AGE:
         print("You are an infant")
-
     elif userAge <= MAX_CHILD_AGE:
         print("You are a child")
-
     elif userAge <= MAX_TEENAGER_AGE:
         print("You are a teenager")
-
     else:
         print("You are an adult")
 
