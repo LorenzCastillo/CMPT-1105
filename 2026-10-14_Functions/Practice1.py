@@ -1,5 +1,5 @@
 def print_evens():
-    for num in range(1, 101):
+    for num in range(1, 100):
         if num % 2 == 0:
             print(num, end=" ")
     print("\n---")
