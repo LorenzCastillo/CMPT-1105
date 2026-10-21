@@ -10,7 +10,6 @@ def calculate_average_in_list(num_list):
 def add_to_list(num_list, item):
     num_list.append(item)
 
-
 def main():
     num_list = []
     num_input = int(input("Enter an integer, or type -1 to exit: "))
